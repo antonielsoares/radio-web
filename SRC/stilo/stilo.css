@@ -41,8 +41,20 @@ header h1{
      height: 45px;
      display: flex;
      margin: 80px auto;
-    opacity: 0;
+     opacity: 0;
  }
+.patrocinio{
+    text-align: center;
+    color: white;
+    
+}
+.patrocinio h1{
+    margin: 10px 0;
+}
+.patrocinio h2{
+    font-size: 22px;
+    margin: 20px auto;
+}
 
 footer{
     position: absolute;
